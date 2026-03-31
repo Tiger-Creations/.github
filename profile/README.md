@@ -3,7 +3,7 @@
 ## 📑 Features:
    - State of the Art Software: As the saying goes, behind every successful animation lies a dedicated software. <br>
    - Open Source: We believe that the more the number of users collaborate, the more effective the program becomes. <br>
-   - Collaboration and Teamwork:...as without these qualities, no organization can ever taste success.
+   - Collaboration and Teamwork:...as without these soft skills, no organization can ever taste success.
 ## 🔎 Accessibility:
 Prerequisites:
 - Modern version of Git.
